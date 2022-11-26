@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:endercom502/goit-react-hw-04-hooks-phonebook.git",
+  "homepage": "https://endercom502.github.io/goit-react-hw-04-hooks-phonebook/",
   "dependencies": {
     "@svgr/plugin-svgo": "^6.5.1",
     "@svgr/webpack": "^6.5.1",
